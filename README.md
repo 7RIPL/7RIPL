@@ -5,7 +5,7 @@
 | Javascript          | NodeJS            | Docker        | Nx Monorepo         | Playwright |
 | TypeScript          | NestJS            |               | Git                 |            |
 | HTML                | PostgreSQL        |               | Yarn                |            |
-                      | Python            |               | Pnpm                |            |
-                      | TypeORM           |               | Npm                 |            |
-                      | Prisma            |               | Pip                 |            |
-                      | Swagger            |
+|                     | Python            |               | Pnpm                |            |
+|                     | TypeORM           |               | Npm                 |            |
+|                     | Prisma            |               | Pip                 |            |
+|                     | Swagger           |               |                     |            |
